@@ -1,6 +1,12 @@
 # QB64-Collection
 Collection of separate QB64 programs I've made
 
+## ascii art.bas
+Proof of concept for a guy on reddit, post here https://old.reddit.com/r/qbasic/comments/u7o3e7/how_to_make_something_like_the_8bit_guys_intro_in/
+
+Allows you to set a string that the program will iterate over, each iteration goes to the next index in the string
+We can't do nested arrays so instead we treat strings as our array of variable lengths + a main 2d array for the display
+
 ## colour.bas
 Mix of some hacky stuff to make neat image generation
 
